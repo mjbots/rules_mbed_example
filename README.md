@@ -6,7 +6,7 @@ projects.  It configures two build targets for two different mbed
 targets, and a target for host based testing.
 
 * License: Apache 2.0
-* SemaphoreCI [![Build Status](https://semaphoreci.com/api/v1/jpieper/rules_mbed_example/branches/master/badge.svg)](https://semaphoreci.com/jpieper/rules_mbed_example)
+* travis-ci [![Build Status](https://travis-ci.org/mjbots/rules_mbed_example.svg?branch=master)](https://travis-ci.org/mjbots/rules_mbed_example)
 
 To compile and run all host based tests:
 
