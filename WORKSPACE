@@ -16,8 +16,8 @@
 
 workspace(name = "com_github_mjbots_rules_mbed_example")
 
-BAZEL_VERSION = "4.0.0"
-BAZEL_VERSION_SHA = "7bee349a626281fc8b8d04a7a0b0358492712377400ab12533aeb39c2eb2b901"
+BAZEL_VERSION = "7.4.1"
+BAZEL_VERSION_SHA = "c97f02133adce63f0c28678ac1f21d65fa8255c80429b588aeeba8a1fac6202b"
 
 load("//tools/workspace:default.bzl", "add_default_repositories")
 
