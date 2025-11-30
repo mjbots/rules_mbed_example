@@ -26,3 +26,13 @@ int main(int, char**) {
   }
   return 0;
 }
+
+extern "C" {
+  int _kill(int, int) {
+    return 0;
+  }
+
+  int _getpid() {
+    return 0;
+  }
+}
